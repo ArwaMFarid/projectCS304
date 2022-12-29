@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib32">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://C:/JOGLwin/lib32" />
+      <root url="file://C:/JOGLwin/lib64" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://C:/JOGLwin/lib32" />
+      <root url="file://C:/JOGLwin/lib64" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+    <jarDirectory url="file://C:/JOGLwin/lib32" recursive="false" />
+    <jarDirectory url="file://C:/JOGLwin/lib64" recursive="false" />
+  </library>
+</component>
